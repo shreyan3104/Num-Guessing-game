@@ -7,3 +7,9 @@ This number guessing game is a classic console-based application where:
 1. The computer randomly selects a number within a defined range
 2. The player attempts to guess the number
 3. After each guess, the player receives feedback on whether their guess was too high or too low
+4. The game continues until the player correctly guesses the number
+
+Installation:
+
+1. Ensure you have Python installed (version 3.6 or higher recommended)
+2. Clone this repository:
