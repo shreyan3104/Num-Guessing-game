@@ -13,3 +13,9 @@ Installation:
 
 1. Ensure you have Python installed (version 3.6 or higher recommended)
 2. Clone this repository:
+              https://github.com/shreyan3104/Num-Guessing-game
+3. No additional dependencies required!
+
+Contributing :
+              Contributions are welcome! Please feel free to submit a Pull Request.
+   
