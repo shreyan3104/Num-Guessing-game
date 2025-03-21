@@ -17,5 +17,6 @@ Installation:
 3. No additional dependencies required!
 
 Contributing :
+
               Contributions are welcome! Please feel free to submit a Pull Request.
    
